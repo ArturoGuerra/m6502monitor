@@ -1,0 +1,6 @@
+.program iobus
+.wrap_target
+    ;wait 1 GPIO 0
+    in pins, 28
+    push
+.wrap
